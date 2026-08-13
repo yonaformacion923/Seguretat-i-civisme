@@ -1,2 +1,2 @@
-# Seguretat-i-civisme
+# Seguridad y civismo
 Competenica digital para realizar el examen ACTIC
